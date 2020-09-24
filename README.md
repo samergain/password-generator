@@ -17,3 +17,4 @@ Finally, a password is generated on screen based on user selections.
 * [deployed application](https://samergain.github.io/password-generator/)
 
 # Screenshot 
+![screenshot](passwordG.png)
