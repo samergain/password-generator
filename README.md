@@ -20,6 +20,8 @@ Finally, a password is generated on screen based on user selections.
 ![screenshot](passwordG.png)
 
 # Future Improvements:
-* expand the special characters array to include the whole set without causing errors when generating the password.
-* find a better way to merge arrays
-* use bootstrap/DOM to replace the popup windows with something more stylish :)
+* Expand the special characters array to include the whole set without causing errors when generating the password.
+* The user can **choose to exclude** some of the special characters. 
+* The generated password **must** include all the criteria chosen by the user.
+* Find a better way to merge arrays.
+* Use bootstrap/DOM to replace the popup windows with something more stylish :)
